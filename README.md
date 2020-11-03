@@ -12,7 +12,7 @@ On click, it displays a detailed view of the issue. This includes all of the pre
 
 <p align="center">
 
-<img src="/Screenshots/ReposListView.png" alt="Repos List View" width="300" title="Repos List View" />
+<img src="/Screenshots/RepoListView.png" alt="Repos List View" width="300" title="Repos List View" />
 
 <img src="/Screenshots/IssuesListView.png" alt="Issues List View" width="300" title="Issues List View" />
 
